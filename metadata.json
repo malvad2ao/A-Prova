@@ -1,0 +1,7 @@
+{
+  "name": "APROVA",
+  "description": "Aplicação educacional de preparação para exames de acesso à universidade: matérias, quizzes, simulados e tutor IA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
